@@ -23,3 +23,8 @@ Additionally, the main folder may contain additional files such as a CSS file fo
 - The project utilizes the fetch method for communicating with the API.
 - Field validation in the form is performed using dedicated JavaScript functions that verify the correctness of the entered data.
 - Upon sending data to the API, the HTTP response status is analyzed, and an appropriate message is displayed on the webpage.
+
+## Desktop overview layout
+![attendance-management-application_1](https://github.com/anna-bachorska/attendance-management-application/assets/125367541/ccda6f6a-7c19-4c5c-9fec-f70354366f1e)
+![attendance-management-application_2](https://github.com/anna-bachorska/attendance-management-application/assets/125367541/fd45db19-a1bc-42fe-ab0e-b84dacb76236)
+![attendance-management-application_3](https://github.com/anna-bachorska/attendance-management-application/assets/125367541/7b670022-e57c-4247-8986-560a6694b3a9)
